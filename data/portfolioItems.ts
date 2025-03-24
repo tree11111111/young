@@ -18,29 +18,22 @@ export const portfolioItems = [
   },
   //{
   //  id: 2,
-  //  title: "병원 홍보 브로슈어",
-  //  description: "CM병원의 브랜드 아이덴티티를 강화하기 위한 홍보 브로슈어 디자인 프로젝트입니다.",
+  //  title: "블로그 글",
+  //  description: "블로그 글을 쓰고 있습니다.",
   //  thumbnail:
-  //    "https://hebbkx1anhila5yf.public.blob.vercel-storage.com/image_fx_%20%281%29.jpg-4qFqj3gaFP3HfnJjzlmQQJsejljgVo.png",
+  //    "https://digitalforest.tistory.com/category/%EA%B1%B4%EA%B0%95",
   //  category: "디자인",
-  //  tags: ["브로슈어", "의료", "인쇄물"],
+  //  tags: ["블로그", "의료", "글"],
   //  type: "design",
   //  url: "/portfolio/2",
-  //  videoUrl: "https://drive.google.com/file/d/1Jwqjzcr5Te9mSiFeMynXI1Dso5AU2epV/view",
+  //  videoUrl: "https://digitalforest.tistory.com/category/%EA%B1%B4%EA%B0%95",
   //  fullDescription: `
-  //    CM병원의 브랜드 가치와 의료 서비스를 효과적으로 전달하기 위한 홍보 브로슈어 디자인 프로젝트입니다.
-  //    병원의 전문성과 따뜻한 환자 케어를 시각적으로 표현하는 데 중점을 두었습니다.
-      
-  //    브로슈어는 병원의 주요 진료과, 첨단 의료장비, 의료진 소개, 그리고 환자 후기 등을 포함하고 있으며,
-  //    깔끔하고 전문적인 레이아웃과 함께 신뢰감을 주는 색상 팔레트를 사용했습니다.
-      
-  //    이 프로젝트를 통해 병원의 브랜드 인지도를 높이고, 잠재적 환자들에게 병원의 전문성과 서비스 품질을
-  //    효과적으로 전달하는 마케팅 자료를 제작했습니다.
+  //    블로그에 지속적으로 글을 올리고 있습니다.
   //  `,
-  //  tools: ["포토샵", "일러스트레이터", "인디자인"],
-  //  duration: "1주",
-  //  year: "2023",
-  //  client: "CM병원",
+  //  tools: ["포토샵", "AI"],
+  //  duration: "매일",
+  //  year: "2025",
+  //  client: "개인",
   //},
   {
     id: 3,
@@ -167,6 +160,7 @@ export const portfolioItems = [
     year: "2023",
     client: "CM병원",
   },
+  
 ]
 
 // 데이터 검증 로직 추가 (개발용)
