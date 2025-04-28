@@ -45,9 +45,9 @@ export function About() {
                     <Code className="h-5 w-5 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-medium">웹 개발</h3>
+                    <h3 className="font-medium">병원홍보</h3>
                     <p className="text-sm text-muted-foreground">
-                      React, Next.js, TypeScript를 활용한 현대적인 웹 애플리케이션 개발
+                      온라인 블로그 글 및 관리 SNS관리, 유튜브 콘텐츠 기획 및 제작, 홈페이지 관리
                     </p>
                   </div>
                 </CardContent>
@@ -71,8 +71,8 @@ export function About() {
                     <Globe className="h-5 w-5 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-medium">디지털 미디어</h3>
-                    <p className="text-sm text-muted-foreground">온라인 콘텐츠 기획 및 제작, 웹사이트 관리</p>
+                    <h3 className="font-medium">웹 개발</h3>
+                    <p className="text-sm text-muted-foreground">React, Next.js, TypeScript를 활용한 현대적인 웹 애플리케이션 개발</p>
                   </div>
                 </CardContent>
               </Card>
