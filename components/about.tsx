@@ -15,7 +15,7 @@ export function About() {
         <div className="text-center mb-12">
           <h2 className="text-3xl font-bold mb-4">소개</h2>
           <p className="text-muted-foreground max-w-2xl mx-auto">
-            저는 사용자 경험을 중시하는 웹 개발자이며 영상·디자이너입니다. 창의적인 솔루션을 통해 복잡한 문제를 해결하는
+            저는 사용자 경험을 중시하는 병원 홍보와 영상·디자이너, 웹 개발자이며입니다. 창의적인 솔루션을 통해 복잡한 문제를 해결하는
             것을 좋아합니다.
           </p>
         </div>
@@ -45,9 +45,9 @@ export function About() {
                     <Code className="h-5 w-5 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-medium">웹 개발</h3>
+                    <h3 className="font-medium">병원 홍보</h3>
                     <p className="text-sm text-muted-foreground">
-                      React, Next.js, TypeScript를 활용한 현대적인 웹 애플리케이션 개발
+                      온라인 블로그 SNS 관리 및 홍보 및 오프라인 홍보 
                     </p>
                   </div>
                 </CardContent>
@@ -71,8 +71,8 @@ export function About() {
                     <Globe className="h-5 w-5 text-primary" />
                   </div>
                   <div>
-                    <h3 className="font-medium">디지털 미디어</h3>
-                    <p className="text-sm text-muted-foreground">온라인 콘텐츠 기획 및 제작, 웹사이트 관리</p>
+                    <h3 className="font-medium">웹 개발</h3>
+                    <p className="text-sm text-muted-foreground">React, Next.js, TypeScript를 활용한 현대적인 웹 애플리케이션 개발</p>
                   </div>
                 </CardContent>
               </Card>
